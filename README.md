@@ -1,2 +1,1 @@
-# react-native-shopping-app
-"E-commerce mobile app with pagination, state management, and data persistence"
+Delete everything and paste the content from the README I just created
